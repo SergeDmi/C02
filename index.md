@@ -18,20 +18,29 @@ In Europe, we are at ~0.3 kg / kW.h ([^EU_eea])
 
 A light bulb consumes 15W, i.e. 360 W.h a day, i.e. 130 kW.h a year, i.e. 40 kg per year.  
 
-
+### Clothing
+Clothing represents about 10% of carbon emissions worldwide [^worldbank].
  
 ### Flights
 On average, for fuel only, a flight emits 100g per passenger km, so about 100kg per hour per passenger ([^carbon_flight]). 
 This is an under-estimation because of the other costs, but order-of-magnitude wise consistent with more precise counts ([^flight_calculator]).  
 This yields about 1 ton C02 for a trans-atlantic flight, i.e. over a month of C02 for an average person.
 
+### transportation
+A modern car produces about 12kg per 100km.
+
 ### Food
 Food represents roughly around a quarter of mankind's emissions [^shrink], i.e. on average 2.5 tons per year per inhabitant.
 A vegeterian diet reduces this footprint by 30%. So one can reduce their emission by 7.5% by following a vegetarian diet.
 
 
-Food waste is responsible for 6% of greenhouse gaz emissions [^data_sector]
+Food waste is responsible for 6%  [^data_sector] to 8% [^uno_waste] of greenhouse gaz emissions, consistent with about 30% of food being wasted [^waste].
 
+### Phones 
+A modern smartphone is around 90kg of C02 [^mobile], i.e. about 3 days worth for an average european. The usage of the smarthphone is around 315kg/year [^mobile], i.e. about 3% of our carbon footprint.
+
+### bitcoin
+Bitcoin consumes at least 50 TWh annualy [^bitcoin0], we represents at least 10  milion tons of C02, and probably closer to 20 to 40 [^bitcoin1][^bitcoin0].
 
 
 ### Significant behavioural change
@@ -52,3 +61,9 @@ Don't make yourself just feel good, act useful !
 [^data_sector]: https://ourworldindata.org/emissions-by-sector
 [^fao_livestock]: http://www.fao.org/3/a0701e/a0701e00.htm
 [^shrink]: http://shrinkthatfootprint.com/food-carbon-footprint-diet
+[^uno_waste]: http://www.fao.org/3/bb144e/bb144e.pdf
+[^waste]: https://www.ifco.com/countries-with-the-least-and-most-food-waste/
+[^mobile]: https://honestmobile.co.uk/2020/08/25/whats-the-carbon-footprint-of-my-smartphone/
+[^worldbank]: https://www.worldbank.org
+[^bitcoin1]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335781
+[^bitcoin0]: https://digiconomist.net/bitcoin-energy-consumption
