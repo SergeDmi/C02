@@ -20,7 +20,7 @@ Therefore, limiting carbon footprint is essential to preventing the death of mil
 ### CO2 - power equivalence
 Coal, fuel, natural gaz are of the order 1kg CO2 emission per kW.h ([^US_eia]).
 
-In Europe, we are at ~0.3 kg / kW.h ([^EU_eea]). Note that countries using coal (e.g. Germany, 2.25% of the worlds' CO2 emissions) have larger emissions than countries using nuclear (e.g. France, 0.95% of the worlds CO2 emissions).    
+In Europe, we are at ~0.3 kg / kW.h ([^EU_eea]). Note that countries using coal (e.g. Germany, 2.25% of the worlds' CO2 emissions) have larger emissions than countries using nuclear (e.g. France, 0.95% of the worlds CO2 emissions). The carbon footprint of coal and gas is 20x that of nuclear energy, at least [^UKparliament].
 
 A light bulb consumes 15W, i.e. 360 W.h a day, i.e. 130 kW.h a year, i.e. 40 kg per year.  
 
@@ -76,3 +76,4 @@ Bitcoin consumes at least 50 TWh annualy [^bitcoin0], we represents at least 10 
 [^epa_climate]: https://www.epa.gov/climate-indicators/weather-climate
 [^bangladesh]: https://www.nrdc.org/onearth/bangladesh-country-underwater-culture-move
 [^oecd]: https://www.oecd.org/fr/environnement/climate-change-consequences-of-inaction.htm
+[^UKparliament]: https://www.parliament.uk/globalassets/documents/post/postpn_383-carbon-footprint-electricity-generation.pdf
